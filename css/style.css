@@ -42,7 +42,7 @@ body {
 .header_list {
 	text-align: center;
 	font-size: 17px;
-	letter-spacing: 3px;
+	letter-spacing: 1px;
 	text-transform: uppercase;
 }
 .header_list > li {
